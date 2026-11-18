@@ -1,0 +1,2 @@
+# Contributing
+Do not edit raw public ratings to make them agree with intended labels. Propose factual corrections with an audit trail. Distinguish pilot and candidate versions. Run validation, analyses, tests, and integrity checks. Update the checksum manifest only after an intentional, reviewed static-file change, preserving prior versions in Git history. Do not upload private candidate keys, consent forms, identifying records, or secret tokens. No contribution license or rights transfer is implied; licensing requires owner authorization.

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Author and repository metadata require owner confirmation; cite the associated manuscript when available."
+title: "Disagreement Is Not Hostility: A Human Annotation Pilot on Policy Stance, Group-Directed Hostility, and Arousal in Persian Texts"
+type: dataset
+version: "0.3.1-review"
+abstract: "Reproducibility materials for 96 human annotation records on 32 Persian pilot stimuli from four scenarios. Not validation of the separate candidate dataset."
+keywords:
+  - Persian
+  - human annotation
+  - hostility
+  - arousal
+  - policy stance
