@@ -1,12 +1,24 @@
-cff-version: 1.2.0
-message: "Author and repository metadata require owner confirmation; cite the associated manuscript when available."
-title: "Disagreement Is Not Hostility: A Human Annotation Pilot on Policy Stance, Group-Directed Hostility, and Arousal in Persian Texts"
+cff-version: "1.2.0"
+message: "If you use these data or analysis scripts, please cite the archived Zenodo release."
+title: "Persian-Language Human Annotation Pilot on Policy Stance, Group-Directed Hostility, and Arousal: Data and Analysis Code"
 type: dataset
-version: "0.3.1-review"
-abstract: "Reproducibility materials for 96 human annotation records on 32 Persian pilot stimuli from four scenarios. Not validation of the separate candidate dataset."
+version: "1.0.0"
+doi: "10.5281/zenodo.24331046"
+repository-code: "https://github.com/Pegi1727/Persian-hostility-pilot"
+authors:
+  - family-names: "<Family name as listed on Zenodo>"
+    given-names: "<Given name as listed on Zenodo>"
+abstract: >-
+  Data and analysis code for a Persian-language human annotation pilot on
+  policy stance, group-directed hostility, and arousal. Three annotators
+  each rated 32 stimuli across four scenarios, yielding 96 annotation
+  records. The results are exploratory and do not validate the separate
+  320-stimulus candidate dataset or evaluate automated model performance.
 keywords:
-  - Persian
+  - Persian language
   - human annotation
-  - hostility
-  - arousal
   - policy stance
+  - group-directed hostility
+  - arousal
+  - inter-annotator agreement
+  - pilot study
