@@ -1,0 +1,22 @@
+{
+  "scope": "human pilot only; not candidate-set validation or model evaluation",
+  "records": 96,
+  "items": 32,
+  "scenarios": 4,
+  "annotators": 3,
+  "guideline_version": "pilot-0.3",
+  "stimulus_version": "pilot-0.3",
+  "reliability": {
+    "ICC_2_1": 0.7145049884881044,
+    "ICC_2_3": 0.8824644549763033
+  },
+  "stance_accuracy": 0.9583333333333334,
+  "software": {
+    "python": "3.11.16",
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "statistical_caution": "Four shared scenarios; independence not established; unadjusted exploratory p-values."
+}

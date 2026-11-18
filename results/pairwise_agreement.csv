@@ -1,0 +1,4 @@
+annotator_a,annotator_b,n,quadratic_kappa,mean_absolute_difference
+ANN-01,ANN-02,32,0.7091775923718713,1.15625
+ANN-01,ANN-03,32,0.8010471204188482,0.6875
+ANN-02,ANN-03,32,0.6377799415774099,1.40625
