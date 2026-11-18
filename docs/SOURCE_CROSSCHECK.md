@@ -1,0 +1,2 @@
+# Source cross-check
+The public analytic response fields were compared programmatically against the supplied consolidated annotation file and the concatenation of all three individual filled annotator files. After sorting by item and annotator IDs, all included responses agreed (dtype differences ignored; no response values changed). The analytic factor columns came from the supplied analysis-ready file and were checked for within-item consistency and full factorial coverage. This is an internal consistency check, not independent authentication of collection procedures.

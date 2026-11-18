@@ -1,0 +1,4 @@
+# Limitations
+Only four scenarios, three annotators, and 32 texts are evaluated. Shared scenarios and raters limit independence and generalization. Negative evaluation of a group is not always hostile; intended design labels require perceptual scrutiny. Word length, emphasis, and other linguistic features may differ with manipulations. Naturalness does not establish ecological validity. Nonsignificance does not establish equivalence. A difference in significance is not a significant interaction. Reliability is not validity. These data do not measure model performance or validate the separate candidate version.
+
+Recruitment, Persian proficiency, consent/ethics arrangements, training, actual scale anchors, blinding, presentation-order generation, and the original stimulus-development process cannot be inferred from the records. They must be described from authentic study documentation, not filled with plausible defaults.

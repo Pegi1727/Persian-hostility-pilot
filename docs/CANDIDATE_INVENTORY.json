@@ -1,0 +1,26 @@
+[
+  {
+    "source_filename": "stimuli_private_master_v2.csv",
+    "rows": 320,
+    "included_in_public_release": false,
+    "reason": "Separate unvalidated candidate/draft development asset; private linkage withheld"
+  },
+  {
+    "source_filename": "stimuli_private_master_candidate_v2_1.csv",
+    "rows": 320,
+    "included_in_public_release": false,
+    "reason": "Separate unvalidated candidate/draft development asset; private linkage withheld"
+  },
+  {
+    "source_filename": "blind_stimuli_candidate_v2_1.csv",
+    "rows": 320,
+    "included_in_public_release": false,
+    "reason": "Separate unvalidated candidate/draft development asset; private linkage withheld"
+  },
+  {
+    "source_filename": "private_id_key_candidate_v2_1.csv",
+    "rows": 320,
+    "included_in_public_release": false,
+    "reason": "Private identifier linkage; do not publish during blind validation"
+  }
+]

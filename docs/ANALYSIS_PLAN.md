@@ -1,0 +1,11 @@
+# Executed analysis specification (not preregistration)
+- Descriptive statistics: individual records, sample SD (ddof=1), no confidence weighting or imputation.
+- Agreement: 32 items × 3 raters; two-way random, absolute-agreement ICC(2,1) and ICC(2,3); pairwise quadratic kappa and mean absolute differences.
+- Matching: average three ratings per item; match on scenario and unchanged factors. Hostility and arousal manipulation contrasts: 16 each. Arousal/hostility contrasts within each hostility condition: eight each.
+- Canonical rank inputs: differences in integer sums across three annotators. This is a positive rescaling of differences in means and preserves exact ties without binary floating-point artifacts.
+- Main manipulation and naturalness signed-rank tests: two-sided normal approximation, no continuity correction, Wilcox zero exclusion, average ranks for ties.
+- Arousal-related hostility comparisons: two-sided enumeration of all sign assignments of nonzero average ranks. Two zero differences are excluded in the intended-present subset. Report min(positive rank sum, negative rank sum).
+- Legacy comparison: also calculate normal approximation on raw floating-point item means, solely to identify numerical differences from earlier manuscript tables.
+- No multiplicity correction; no formal interaction test; no automated model evaluation.
+- Contrasts are clustered within four scenarios. Conventional reference distributions assume independence that is not established here. Exact enumeration is not a correction for clustering. Emphasize descriptive magnitude; no population-level confirmatory claim.
+- No bootstrapped confidence interval is invented for ICC. A larger-scenario repeated-measures analysis requires a new analysis design; this package does not pretend four clusters justify robust generalization.
